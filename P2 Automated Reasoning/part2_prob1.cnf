@@ -1,0 +1,4 @@
+c first: num of var; second: num of clauses; end clause with 0
+c 1=p 2=q
+p cnf 2 1
+1 2 0
